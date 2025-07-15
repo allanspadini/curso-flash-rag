@@ -12,4 +12,5 @@ Dengue
 Annual Epidemiological Report for 2020
 [https://www.ecdc.europa.eu/en/dengue-monthly](https://www.ecdc.europa.eu/sites/default/files/documents/DENGUE_AER_2020_Report%20-%20final.pdf)
 
-Hannah Ritchie (2022) - “Increasing agricultural productivity across Sub-Saharan Africa is one of the most important problems this century” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/africa-yields-problem' [Online Resource]
+Analysis of Crop Production Dataset using R Tool
+DOI: 10.35940/ijeat.A1100.1291S419
